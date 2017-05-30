@@ -1,0 +1,42 @@
+body
+{
+  border:0;
+  /*height: 400px;*/
+}
+.layout
+{
+  height: 100vh;
+  width: 33.3%;
+  display: inline-block;
+  float: left;
+}
+
+.blue
+{
+  background: lightblue;
+  float: left;
+
+}
+
+.green
+{
+  background-color: lightgreen;
+  float: left;
+}
+
+.yellow
+{
+  background-color: yellow;
+  float: left;
+}
+
+.red
+{
+  background-color: red;
+  height:25%;
+  margin-top: 75vh;
+  padding-top: 30px;
+  padding-left: 20px;
+  color: white;
+  font-size: 35px;
+}
