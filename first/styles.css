@@ -1,0 +1,30 @@
+body
+{
+  background-color: silver;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.header
+{
+  background-color: gray;
+  height:100px;
+  width:100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+
+.mid
+{
+  height: 80vh;
+  background-color: white;
+}
+.footer
+{
+  margin-right;
+  height:20vh;
+  width: 100%;
+  background-color: black;
+}
